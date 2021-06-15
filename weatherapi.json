@@ -1,0 +1,6 @@
+{
+    "url": "https://api.openweathermap.org/data/2.5/weather",
+    "apiKey": "4b14cb9940b8928413081f6e1f4c6f8e",
+    "city": "Dnipro",
+    "units": "metric"
+}
